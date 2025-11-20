@@ -7,7 +7,7 @@ The model visualizes how fire spreads through a field using simple cellular-auto
 ## Live Demo
 Run the simulator directly in your browser:
 
-**https://<your-username>.github.io/Forest-Fire-Simulator**
+**https://clarkfannin.github.io/Forest-Fire-Simulator**
 
 (No installation, no setup — it runs entirely in the browser through pygbag.)
 
